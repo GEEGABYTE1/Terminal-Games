@@ -46,6 +46,9 @@ def intro():
             from pokemon import introduction
             break
         
+        elif introduction == "/quit":
+            break
+        
         else:
             print('That game is currently not valid')
 
