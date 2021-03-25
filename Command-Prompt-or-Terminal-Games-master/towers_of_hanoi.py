@@ -89,6 +89,10 @@ class game(Stack):
         #This is if he decides to use the top lane to move the disks 
         print("\n")
         option = str(input("Which lane would you like to work with?: "))
+        
+        if option == "/quit":
+            break
+        
         if option == "Top" or option == "top":
             throw = str(input("Where would you like to put your disk?: "))
             if throw == "Middle" or throw == "middle":
