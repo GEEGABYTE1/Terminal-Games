@@ -59,16 +59,59 @@ Popular games can now be playable right from your terminal!
   - `Yes`: To accept to either *heal* or *revive* your pokemon. 
   - `No`: To decline to either *heal* or *revive* your pokemon. 
   
-  Moves will vary depending on the Pokemon. 
-    ### Charizard 
-    - `Flamethrower`            Attack: 12
-    - `Fly`                     Defense: 8
-    - `Blast Burn`
-    - `Fire Punch`
-    
-    ### Blastoise 
-    - `Water Gun`
-    - `Bubblebeam` 
-    - `Hydro
-  
+     Moves will vary depending on the Pokemon however, attack damage will stay constant for all moves. They will only change depending on the type the attack is    against. 
+      ### Charizard 
+      - `Flamethrower`            Attack: 12
+      - `Fly`                     Defense: 8
+      - `Blast Burn`
+      - `Fire Punch`
+
+      ### Blastoise 
+      - `Water Gun`               Attack: 10
+      - `Bubblebeam`              Defense: 10
+      - `Hydro Pump`
+      - `Surf` 
+
+      ### Venasaur
+      - `Vine Whip`               Attack: 8
+      - `Razor Leaf`              Defense: 12
+      - `Earthquake`
+      - `Frenzy Plant`
+
+      ### Charmander
+      - `Ember`                   Attack: 4
+      - `Scratch`                 Defense: 2
+      - `Tackle`
+      - `Fire Punch`
+
+      ### Squirtle 
+      - `Bubblebeam`             Attack: 3
+      - `Tackle`                 Defense: 3
+      - `Headbutt`
+      - `Surf`
+
+      ### Bulbasaur 
+      - `Vine Whip`             Attack: 2
+      - `Razor Leaf`            Defense: 4
+      - `Tackle`
+      - `Leech Seed`
+
+      ### Charmeleon 
+      - `Ember `                Attack: 6
+      - `Scratch`               Defense: 5
+      - `Flamethrower`
+      - `Fire Punch`
+
+      ### Wartortle
+      - `Bubblebeam`            Attack: 5
+      - `Watergun`              Defense: 5
+      - `Headbutt`
+      - `Surf`
+
+      ### Ivysaur
+      - `Vine Whip`             Attack: 4
+      - `Razor Leaf`            Defense: 6
+      - `Bullet Seed`
+      - `Leech Seed`
+
   
