@@ -135,6 +135,8 @@ Some games do not have a `/quit` function, hence, in order to leave, you would h
 
 You cannot run multiple games at once. 
 
+In order to play the game, you must run `games.py`
+
 Made in Python 🐍
       
 
