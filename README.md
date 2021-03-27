@@ -22,13 +22,30 @@ Popular games can now be playable right from your terminal!
   - `Yes`: To play again when guessed.
   - `No`: Quits progam when guessed.
  
- ## Cho-Han 
+  ## Cho-Han 
   - `money in digits`: When asked to place a wager. *Caution* DO NOT PUT (`$`) BESIDE VALUE.
-  - `Space Bar`: Will roll the dice when asked 
-  - `Even` or `even`: To guess the sum is even 
-  - `Odd` or `odd`: TO guess the sum is odd
+  - `Space Bar`: Will roll the dice when asked. 
+  - `Even` or `even`: To guess the sum is even.
+  - `Odd` or `odd`: TO guess the sum is odd.
   - `Yes`: To play again when guessed.
   - `No`: Quits progam when guessed.
  
- ## Pick-Cards
-  - `
+  ## Pick-Cards
+  - `money in digits`: When asked to place a wager. *Caution* DO NOT PUT (`$`) BESIDE VALUE.
+  - `Enter`: To continue with the game when asked and to choose a card at random. 
+  -  `Yes`: To play again when asked.
+  -  `No`: Quits the program when asked.
+  -  
+    *Controls apply for both players* 
+  
+  ## Roulette 
+  - `money in digits`: When asked to place a wager. *Caution* DO NOT PUT (`$`) BESIDE VALUE.
+  - `Black` or `black`: To guess the colour black.
+  - `Red` or `red`: To guess the colour red. 
+  - `Green` or `Green`: To guess the colour green. 
+  - `Yes`: To play again when asked.
+  - `No`: Quits the program when asked.
+  
+  ## Towers of Hanoi 
+  - 'Top
+  
