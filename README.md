@@ -137,6 +137,8 @@ You cannot run multiple games at once.
 
 In order to play the game, you must run `games.py`
 
+*Pokemon* may require numpy.
+
 Made in Python 🐍
       
 
