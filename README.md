@@ -47,5 +47,17 @@ Popular games can now be playable right from your terminal!
   - `No`: Quits the program when asked.
   
   ## Towers of Hanoi 
-  - 'Top
+  - `Top`: To work with the left lane.
+  - `Middle`: To work with the middle lane.
+  - `Bottom`: To work with the bottom lane.
+  - `/quit`: Quits the program 
+  
+  ## Pokemon 
+  - `Charmander`: To select Charmander.
+  - `Squirtle`: To select Squirtle.
+  - `Bulbasaur`: To select Bulbasaur. 
+  - `Yes`: To accept to either *heal* or *revive* your pokemon. 
+  - `No`: To decline to either *heal* or *revive* your pokemon. 
+  
+  Moves will vary depending on the Pokemon. 
   
