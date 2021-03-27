@@ -60,4 +60,15 @@ Popular games can now be playable right from your terminal!
   - `No`: To decline to either *heal* or *revive* your pokemon. 
   
   Moves will vary depending on the Pokemon. 
+    ### Charizard 
+    - `Flamethrower`            Attack: 12
+    - `Fly`                     Defense: 8
+    - `Blast Burn`
+    - `Fire Punch`
+    
+    ### Blastoise 
+    - `Water Gun`
+    - `Bubblebeam` 
+    - `Hydro
+  
   
