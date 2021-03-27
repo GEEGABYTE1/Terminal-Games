@@ -61,57 +61,81 @@ Popular games can now be playable right from your terminal!
   
      Moves will vary depending on the Pokemon however, attack damage will stay constant for all moves. They will only change depending on the type the attack is    against. 
       ### Charizard 
-      - `Flamethrower`            Attack: 12
-      - `Fly`                     Defense: 8
-      - `Blast Burn`
-      - `Fire Punch`
-
+      - Attack: 12
+      - Defense: 8
+      - Moves:| `Flamethrower` | `Fly`  | `Blast Burn` | `Fire Punch` | 
+          
       ### Blastoise 
-      - `Water Gun`               Attack: 10
-      - `Bubblebeam`              Defense: 10
-      - `Hydro Pump`
-      - `Surf` 
-
+      - Attack: 10
+      - Defense: 10
+      - Moves: | `Water Gun` | `Bubblebeam` | `Hydro Pump` | `Surf` |
+      
       ### Venasaur
-      - `Vine Whip`               Attack: 8
-      - `Razor Leaf`              Defense: 12
-      - `Earthquake`
-      - `Frenzy Plant`
-
+      - Attack: 8
+      - Defense: 12
+      - Moves: | `Vine Whip` | `Razor Leaf` | ` Earthquake` | `Frenzy Plant` |
+      
       ### Charmander
-      - `Ember`                   Attack: 4
-      - `Scratch`                 Defense: 2
-      - `Tackle`
-      - `Fire Punch`
-
+      - Attack: 4
+      - Defense: 2
+      - Moves: | `Ember` | `Scratch` | `Tackle` | `Fire Punch` |
+     
       ### Squirtle 
-      - `Bubblebeam`             Attack: 3
-      - `Tackle`                 Defense: 3
-      - `Headbutt`
-      - `Surf`
-
+      - Attack: 3
+      - Defense: 3
+      - Moves: | `Bubblebeam` | `Tackle` | `Headbutt` | `Surf` |
+     
       ### Bulbasaur 
-      - `Vine Whip`             Attack: 2
-      - `Razor Leaf`            Defense: 4
-      - `Tackle`
-      - `Leech Seed`
+      - Attack: 2
+      - Defense: 4
+      - Moves: | `Vine Whip` | `Razor Leaf` | `Tackle` | `Leech Seed` |
+
 
       ### Charmeleon 
-      - `Ember `                Attack: 6
-      - `Scratch`               Defense: 5
-      - `Flamethrower`
-      - `Fire Punch`
-
+      - Attack: 6
+      - Defense: 5
+      - Moves: | `Ember` | `Scratch` | `Flamethrower` | `Fire Punch` |
+     
       ### Wartortle
-      - `Bubblebeam`            Attack: 5
-      - `Watergun`              Defense: 5
-      - `Headbutt`
-      - `Surf`
-
+      - Attack: 5
+      - Defense: 5
+      - Moves: | `Bubblebeam` | `Watergun` | `Headbutt` | `Surf` |
+      
       ### Ivysaur
-      - `Vine Whip`             Attack: 4
-      - `Razor Leaf`            Defense: 6
-      - `Bullet Seed`
-      - `Leech Seed`
+      - Attack: 4
+      - Defense: 6
+      - Moves: | `Vine Whip` | `Razor Leaf` | `Bullet Seed` | `Leech Seed` |
+  
+  ## Tic Tac Toe
+  - `X` or `x`: Tic Tac Toe mark of one user.
+  - `O` or `o`: Tic Tac Toe mark for user two. 
+  - `Top Left`: Puts the user's mark at the *top left* of the board.
+  - `Middle Left`: Puts the user's mark at the *middle left* of the board.
+  - `Bottom Left`: Puts the user's mark at the *bottom left* of the board. 
+  - `Top Middle`: Puts the user's mark at the *top middle* of the board. 
+  - `Middle`: Puts the user's mark at the *middle* of the board .
+  - `Bottom Middle`: Puts the user's mark at *bottom middle* of the board.
+  - `Top Right`: Puts the user's mark at the *top right* of the board.
+  - `Middle Right`: Puts the user's mark at the *middle right* of the board. 
+  - `Bottom Right`: Puts the user's mark at the *bottom right* of the board.
+ 
+ ## Connect4 
+ - `1`: Puts the user's coin in the first column to the left 
+ - `2`: Puts the user's coin in the second column to the left 
+ - `3`: Puts the user's coin in the third column to the left 
+ - `4`: Puts the user's coin in the fourth column to the left 
+ - `5`: Puts the user's coin in the fifth column to the left 
+ - `6`: Puts the user's coin in the sixth column to the left 
+ - `7`: Puts the user's coin in the first column to the very right. 
+ - `/quit`: Quits the program
+
+## Extra Information 
+
+Some games do not have a `/quit` function, hence, in order to leave, you would have to manually re-launch the program or finish the game that you were currently playing. 
+
+You cannot run multiple games at once. 
+
+Made in Python 🐍
+      
 
   
